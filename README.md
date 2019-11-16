@@ -5,7 +5,7 @@ A user login, logout, register ready to use for CodeIgniter 3
 - PHP 7.2 or greater
 
 ## Includes
-- [CodeIgniter 3.1.1](https://codeigniter.com/)
+- [CodeIgniter 3.1.11](https://codeigniter.com/)
 - [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
 
 ## Installation
