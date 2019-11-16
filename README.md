@@ -1,6 +1,13 @@
 # CodeIgniter 3 - PHP Simple Login System
 A user login, logout, register ready to use for CodeIgniter 3
 
+## Requirements
+- PHP 7.2 or greater
+
+## Includes
+- [CodeIgniter 3.1.1](https://codeigniter.com/)
+- [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
+
 ## Installation
 1. Open `config.php` and edit your domain, and database settings.
 2. In your database server, open a SQL terminal paste this and execute:
